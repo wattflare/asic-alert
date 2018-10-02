@@ -1,8 +1,9 @@
 const request = require('request');
 const fs = require('fs');
-
-const accessToken = JSON.parse(fs.readFileSync('accessToken.json', 'utf8'));
-const exceptionList = JSON.parse(fs.readFileSync('execptionList.json', 'utf8'));
+const accessToken = require('./accessToken.json');
+const exceptionList = require('./execptionList.json');
+//const accessToken = JSON.parse(fs.readFileSync('accessToken.json', 'utf8'));
+//const exceptionList = JSON.parse(fs.readFileSync('execptionList.json', 'utf8'));
 
 const slack_webhook_url = "https://hooks.slack.com/services/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";
 
