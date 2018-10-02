@@ -10,7 +10,7 @@ npm install
 touch accessToken.json
 touch execptionList.json
 ```
-##### sample content of accessToken.json
+#### sample content of accessToken.json
 Get access token from slushpool.com
 ```
 [
@@ -18,7 +18,7 @@ Get access token from slushpool.com
 	"XXXXXXX-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ]
 ```
-##### sample content of execptionList.json
+#### sample content of execptionList.json
 known sick workers list with expected hashrate
 ```
 {
