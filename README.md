@@ -1,6 +1,7 @@
 # asic-alert
 Sends slack alerts of the *offline* or *under performing* workers/rigs.
-Create slack app and get slack webhook url
+Create [slack app](https://api.slack.com/apps) and get slack webhook url
+
 
 ### install
 ```
