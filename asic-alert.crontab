@@ -1,0 +1,1 @@
+*/15 * * * * $HOME/asic-alert/asic-alert.sh > $HOME/asic-alert/cron.log 2>&1

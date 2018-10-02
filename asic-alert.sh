@@ -1,0 +1,1 @@
+/usr/local/bin/node $HOME/asic-alert/check-asic-status.js
