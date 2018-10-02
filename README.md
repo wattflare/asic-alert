@@ -6,7 +6,7 @@ Create [slack app](https://api.slack.com/apps) and get slack webhook url
 ### install
 ```
 git clone https://github.com/wattflare/asic-alert.git
-cd rig-alert
+cd asic-alert
 npm install
 ```
 ### create config files
