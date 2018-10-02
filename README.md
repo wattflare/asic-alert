@@ -1,4 +1,7 @@
 # asic-alert
+Sends slack alerts of the *offline* or *under performing* workers/rigs.
+Create slack app and get slack webhook url
+
 ### install
 ```
 git clone https://github.com/wattflare/asic-alert.git
