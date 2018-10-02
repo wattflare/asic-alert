@@ -34,5 +34,5 @@ known sick workers list with expected hashrate
 `node check-asic-status.js` or `./asic-alert.sh`
 ### install crontab
 Edit `asic-alert.sh` and `asic-alert.crontab` to change file path. By default cron runs every 15 minutes.
-#### For easy installation run the following command
+#### For easy installation of crontab, run the following command
 `./install-crontab.sh` Appends cronjob to existing crontab  
